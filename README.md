@@ -1,9 +1,11 @@
 Hello.
 This is a project (or standalone code) from Niko Jones.
 
-To use this code elsewhere please either:
-a) Contact me to ask for permission or
-b) Cite me somewhere in code
+This code may include, but is not limited to:
+
+- School work
+- Personal projects
+- Resume projects
 
 <!---
 NikoJones/NikoJones is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
