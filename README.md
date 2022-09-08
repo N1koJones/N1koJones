@@ -1,9 +1,7 @@
-Hello.
-This is a project (or standalone code) from Niko Jones.
+Hello world!
 
 This code may include, but is not limited to:
-
-- School work
+- School projects
 - Personal projects
 - Resume projects
 
