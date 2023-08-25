@@ -1,15 +1,19 @@
-### Hello world!
-
+### 🗺️ Hello world! 🗺️
 - I'm currently studying at the University of Windsor in Honours of Applied Computing
 - I enjoy making programs on topics that interest me and help make life easier
 - How to reach me: nikojones@live.ca
 - Projects here include but not limited to; school projects, personal projects, resume projects
 - My website is currently being & all code will be available as additions are made.
 
+
 ### 🛠️ Languages & Tools 🛠️
 <div>
   <!-- add images here-->
 </div>
+
+
+### 📊 GitHub Stats 📊
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N1koJones)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 NikoJones/NikoJones is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
