@@ -1,7 +1,10 @@
 <!-- This section will be used for styled text for my ReadMe -->
-<BlueText style="color:#38bdae">
+<BlueText style="color:#70a5fd">
+<TeelText style="color:#38bdae">
+<PurpleText style="color:#bf91f3">
+<DarkText style="color:#1a1b27:>
 
-### 🗺️ Hello world! 🗺️
+### <BlueText>🗺️ Hello world! 🗺️</BlueText>
 - I'm currently studying at the University of Windsor in Honours of Applied Computing
 - I enjoy making programs on topics that interest me and help make life easier
 - How to reach me: nikojones@live.ca
