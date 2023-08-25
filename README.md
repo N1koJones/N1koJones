@@ -1,3 +1,6 @@
+<!-- This section will be used for styled text for my ReadMe -->
+<BlueText style="color:#38bdae">
+
 ### 🗺️ Hello world! 🗺️
 - I'm currently studying at the University of Windsor in Honours of Applied Computing
 - I enjoy making programs on topics that interest me and help make life easier
