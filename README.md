@@ -13,8 +13,8 @@
 
 
 ### 📊 GitHub Stats 📊
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=N1koJones&theme=tokyonight&date_format=%5BY%20%5DM%20j&border=BF91F3)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N1koJones&theme=tokyonight&border=BF91F3)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=N1koJones&theme=tokyonight&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N1koJones&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 NikoJones/NikoJones is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
