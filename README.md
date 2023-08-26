@@ -8,6 +8,7 @@
   -->
   #link { color:#70a5fd; }
 </head>
+
 ### 🗺️ Hello world! 🗺️
 - I'm currently studying at the University of Windsor in Honours of Applied Computing
 - I enjoy making programs on topics that interest me and help make life easier
