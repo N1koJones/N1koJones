@@ -6,17 +6,16 @@
   bf91f3  Lavender
   1a1b27  Dark Blue/Purple
   -->
-  #link { color:#70a5fd; }
 </head>
 
 ### 🗺️ Hello world! 🗺️
-- I'm currently studying at the University of Windsor in Honours of Applied Computing
-- I enjoy making programs on topics that interest me and help make life easier
-- How to reach me: <a href="mailto:nikojones@live.ca" style="color:#70a5fd; text-decoration: underline; ">nikojones@live.ca</a>
-- Projects here include but not limited to; school projects, personal projects, resume projects
-- My website is currently being & all code will be available as additions are made.
+- 👨‍🎓 I'm currently studying at the University of Windsor in Honours of Applied Computing
+- 💡 I enjoy making programs on topics that interest me and help make life easier
+- 📧 How to reach me: nikojones@live.ca
+- 🔧 Projects here include but not limited to; school projects, personal projects, resume projects
+- 🧙 My website is currently being & all code will be available as additions are made.
 
-<a href="https://www.google.com/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">custom link</a>
+
 ### 🛠️ Languages & Tools 🛠️
 <div>
   <!-- add images here-->
