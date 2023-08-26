@@ -9,6 +9,7 @@
 ### 🛠️ Languages & Tools 🛠️
 <div>
   <!-- add images here-->
+  <img src="https://github.com/N1koJones/N1koJones/blob/main/Icons/JavaLogo.png" alt="Java Logo">
 </div>
 
 
