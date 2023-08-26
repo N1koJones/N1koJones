@@ -16,7 +16,7 @@
 - Projects here include but not limited to; school projects, personal projects, resume projects
 - My website is currently being & all code will be available as additions are made.
 
-
+<a href="https://www.google.com/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">custom link</a>
 ### 🛠️ Languages & Tools 🛠️
 <div>
   <!-- add images here-->
