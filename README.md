@@ -9,7 +9,9 @@
 ### 🛠️ Languages & Tools 🛠️
 <div>
   <!-- add images here-->
+  <!-- <img src="" alt=""> -->
   <img src="https://github.com/N1koJones/N1koJones/blob/main/Icons/JavaLogo.png" alt="Java Logo">
+  <img src="https://github.com/N1koJones/N1koJones/blob/main/Icons/PythonLogo.png" alt="Python Logo">
 </div>
 
 
