@@ -25,20 +25,25 @@
 <div>
   <!-- add images here-->
   <!-- <img src="" alt=""> -->
+  <img src="https://github.com/N1koJones/N1koJones/blob/main/Icons/PythonLogo.png" alt="Python Logo">
+  <img src="https://github.com/N1koJones/N1koJones/blob/main/Icons/JavaLogo.png" alt="Java Logo">
+  <img src="https://github.com/N1koJones/N1koJones/blob/main/Icons/HTMLLogo.png" alt="HTML Logo">
+  <img src="https://github.com/N1koJones/N1koJones/blob/main/Icons/CSSLogo.png" alt="CSS Logo">
+  <img src="https://github.com/N1koJones/N1koJones/blob/main/Icons/JavaScriptLogo.png" alt="JavaScript Logo">
 </div>
 <div>
-  
+  <img src="https://github.com/N1koJones/N1koJones/blob/main/Icons/JetBrainsLogo.png" alt="JetBrains Logo">
+  <img src="https://github.com/N1koJones/N1koJones/blob/main/Icons/VSCodeLogo.png" alt="VSCode Logo">
+  <img src="https://github.com/N1koJones/N1koJones/blob/main/Icons/EclipseLogo.png" alt="Eclipse Logo">
 </div>
-
 
 ### 📊 GitHub Stats 📊
-<div class="center-h">
-  
-  [![Niko's GitHub stats](https://github-readme-stats.vercel.app/api?username=N1koJones&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N1koJones&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-  
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=N1koJones&theme=tokyonight&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
-</div>
+
+[![Niko's GitHub stats](https://github-readme-stats.vercel.app/api?username=N1koJones&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N1koJones&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=N1koJones&theme=tokyonight&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
 
 
 <!---
