@@ -8,11 +8,6 @@
   -->
 </head>
 
-.center-h{
-  display: flex;
-  justify-content: center;
-}
-
 ### 🗺️ Hello world! 🗺️
 - 👨‍🎓 I'm currently studying at the University of Windsor in Honours of Applied Computing
 - 💡 I enjoy making programs on topics that interest me and help make life easier
