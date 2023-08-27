@@ -32,7 +32,6 @@
   <img src="https://github.com/N1koJones/N1koJones/blob/main/Icons/JavaScriptLogo.png" alt="JavaScript Logo">
 </div>
 <div>
-  <img src="https://github.com/N1koJones/N1koJones/blob/main/Icons/JetBrainsLogo.png" alt="JetBrains Logo">
   <img src="https://github.com/N1koJones/N1koJones/blob/main/Icons/VSCodeLogo.png" alt="VSCode Logo">
   <img src="https://github.com/N1koJones/N1koJones/blob/main/Icons/EclipseLogo.png" alt="Eclipse Logo">
 </div>
