@@ -8,6 +8,11 @@
   -->
 </head>
 
+.center-h{
+  display: flex;
+  justify-content: center;
+}
+
 ### 🗺️ Hello world! 🗺️
 - 👨‍🎓 I'm currently studying at the University of Windsor in Honours of Applied Computing
 - 💡 I enjoy making programs on topics that interest me and help make life easier
@@ -20,17 +25,20 @@
 <div>
   <!-- add images here-->
   <!-- <img src="" alt=""> -->
-  <img src="https://github.com/N1koJones/N1koJones/blob/main/Icons/JavaLogo.png" alt="Java Logo">
-  <img src="https://github.com/N1koJones/N1koJones/blob/main/Icons/PythonLogo.png" alt="Python Logo">
+</div>
+<div>
+  
 </div>
 
 
 ### 📊 GitHub Stats 📊
-[![Niko's GitHub stats](https://github-readme-stats.vercel.app/api?username=N1koJones&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<div class="center-h">
+  [![Niko's GitHub stats](https://github-readme-stats.vercel.app/api?username=N1koJones&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N1koJones&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=N1koJones&theme=tokyonight&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
+</div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=N1koJones&theme=tokyonight&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N1koJones&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 NikoJones/NikoJones is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
