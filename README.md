@@ -30,6 +30,8 @@
   <img src="https://github.com/N1koJones/N1koJones/blob/main/Icons/VSCodeLogo.png" alt="VSCode Logo">
   <img src="https://github.com/N1koJones/N1koJones/blob/main/Icons/EclipseLogo.png" alt="Eclipse Logo">
   <img src="https://github.com/N1koJones/N1koJones/blob/main/Icons/JetBrainsLogo.png" alt="JetBrains Logo">
+  <img src="https://github.com/N1koJones/N1koJones/blob/main/Icons/GitHubLogo.png" alt="GitHub Logo">
+  
 </div>
 
 ### 📊 GitHub Stats 📊
