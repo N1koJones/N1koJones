@@ -11,7 +11,6 @@
 ### 🗺️ Hello world! 🗺️
 - 👨‍🎓 I'm currently studying at the University of Windsor in Honours of Applied Computing
 - 💡 I enjoy making programs on topics that interest me and help make life easier
-- 📧 How to reach me: nikojones@live.ca
 - 🧙 I enjoy projects where I can apply myself and showcase my interests!
 
 
